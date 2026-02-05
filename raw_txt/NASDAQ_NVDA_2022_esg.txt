@@ -1,0 +1,134 @@
+JENSEN HUANG Founder, President and CEO Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT MESSAgE FROM OuR CEO 4 --- PAGE 6 --- 02 CORPORATE RESPONSIBILITY OVERVIEW We assess our corporate responsibility program annually to ensure that we remain aligned with stakeholder expectations, market trends, and business risks and opportunities.
+In light of increased prioritization of corporate responsibility internally and externally, we streamlined our corporate responsibility topics from 20 to seven to better reflect their interrelatedness.
+Corporate Responsibility Governance The Nominating and Corporate governance Committee (NCgC) of our Board is responsible for reviewing and discussing with management our practices concerning environmental, social, and corporate governance.
+Starting in our fiscal year ending January 29, 2022 (FY23), the Compensation Committee of our Board became responsible for reviewing and discussing with management our policies and strategies relating to human capital management, which includes recruiting, retention, development, diversity, inclusion and belonging, and employment practices.
+STAKEHOLDER FY22 INTERACTIONS Communities Together, the company and our employees contributed more than $22.3 million and supported 5,700 nonprofits in 50+ countries around the world.
+To support youth from underserved and underrepresented communities in developing STEM skills, we provided funding to and held virtual volunteer events for organizations working toward this goal.
+During the year, we partnered with our customers to: > Align and confirm priorities on key requirements; > Report our supply chain and conflict mineral status; >
+Support customer quarterly business reviews; and > Communicate our business continuity program.
+We provided access and training for women and members of the Black/ African American and Hispanic/Latino communities to increase participation by developers from underrepresented communities at our annual developer conference.
+We supported professional organizations Women in Data, Women-ai, and Black Women in AI.
+To increase outreach to students, we planned several sessions at our conferences related to building a career in AI and engaged with computer science departments at Historically Black Colleges and universities and Hispanic-Serving Institutions across the united States.
+We delivered quarterly engagement pulse surveys to measure sentiment around topics such as meaningful work, diversity, inclusion and belonging, and support needed to succeed.
+We participated in the development and advocacy of the Semiconductor Industry Association development and advocacy efforts, including investment in the u.S. workforce and federal R&D programs.
+We engaged with the global Child Forum, Investor Alliance for Human Rights, uN global Compact uSA, and the World Benchmarking Alliance.
+We met regularly with investors on corporate responsibility topics.
+We scored No. 1 for a second year in several categories of Institutional Investor’s 2021 All-American Executive Team Leaders survey, including top executives, top IR team, Best ESg, and best communications response to COVID-19.
+We were No. 12 on Investor’s Business Daily’s Best ESg Companies List.
+Diverse teams fuel innovation, and we’re committed WHAT IT COVERS: to creating an inclusive culture that supports all employees, regardless of gender, gender identity or expression, veteran status, race, ethnicity, or ability. >
+and retention, including diversity considerations in talent acquisition To execute our business strategy successfully, we must recruit, develop, and > Competitive wages, benefits, and retain talented employees, including executives, scientists, engineers, and support mechanisms technical and non-technical staff.
+Provide a guide for unbiased recruiting and hiring to managers and interviewers; > Shepherd candidates from underrepresented communities through the interviewing process; > give candidates the option to speak with employees from their communities about the employee experience and company culture; and > Partner with our community resource groups to improve how we reach and attract diverse candidates.
+During new hire orientation, we promote our community resource groups, and members of these groups serve as ambassadors and support other onboarding activities for new employees.
+We offer comprehensive benefits to support the well-being of our employees and their families, including 401(k) programs in the united States, statutory pension programs outside the united States, an employee stock purchase program, flexible work hours and time off, and programs to address mental health and well-being.
+We evaluate our benefit offerings annually to ensure they are meeting the needs of our employees and we continuously seek new ways to advance our employee support.
+To ease the transition back to work after their leave, all new parents also receive up to eight weeks of flex time.
+A new web page was created that contains information about NVIDIA’s policies, benefits, and support teams available to those pursuing a gender transition.
+We partner with other NVIDIA communities to tailor support programs based on needs, such as expansion of military leave for members of the military.
+With so many of our employees working remotely for an extended period, we enhanced the resources we provide to support health and wellness at home.
+The sharpest understanding of reality improves our work.
+We are alert and constantly learning, and adjust course to align to new realities.
+We disagree openly and directly because conflict is essential to resolving differences, improving ideas, and achieving alignment.
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 15 --- PAGE 17 --- To ensure our continued success, we maintain a working environment where our employees are engaged and inspired.
+COMMUNITY RESOURCE GROUPS Survey results from Great Place to We support several community resource groups (CRgs), which have executive-level Work.
+HLN offered a career development program to encourage members to set Human Rights Campaign Corporate career aspirations and work to achieve them.
+It also formed the Parents and Caregivers Support group to provide employees with resources and support.
+We encourage all employees to share their pronouns and, in FY22, 30% of our employees updated their profile with pronouns in support of their NV Pride colleagues.
+INCLUSION RESOURCES We curate resources for employees to increase awareness and provide suggestions on how to foster an inclusive environment.
+We have reviewed our engineering and other documentation to ensure it is consistent with our code of conduct and principles of inclusivity.
+COMMUNITY ENGAGEMENT TOP 20 ORGANIZATIONS NVIDIANs share a passion for meaningfully supporting the communities in which RECEIVING SUPPORT IN FY22: we live and do business.
+The NVIDIA Foundation, led by four staff members in > CEO Leadership Alliance Orange partnership with employee champions around the world, helps turn this passion County for giving into action through our Inspire 365 initiative, which aims to empower all NVIDIANs to get involved in their communities.
+As the COVID-19 pandemic continued into its second year, NVIDIANs remained committed to donating their time and contributing resources to those in need.
+Stanford university Celebrating Hispanic and Latino Culture,” which aimed to inspire employees to learn from, honor, and support our colleagues and communities.
+2 Organizations are listed in alphabetical Collectively, these efforts supported 5,700 nonprofits in more than 50 countries order.
+We curate learning libraries around our most common development needs, provide the latest platforms to support self-paced learning, and regularly improve and update those topics using learner feedback from internal messaging channels.
+Due to managers’ direct influence on employee engagement, we have invested in developing our managers to become great leaders.
+Our FY22 efforts include: > Topic-based manager meetups held monthly; INCLUSIVE TRAINING > Dedicated communication channels to share ideas, ask questions, and discuss MATERIALS everyday management situations; To improve the way transgender people were addressed in our > A development program for high-potential women designed to enhance their workplace harassment training, we leadership capabilities and to prepare them for future advancement; and worked with the vendor to revise the content, and the subsequent updates >
+We introduced an allyship program to establish and train a network of allies that can speak up when they see non-inclusive behavior and advocate for changes that lead to increased equity.
+ETHICAL CONDUCT We strive to achieve the highest standards of ethical conduct in all our business dealings and are committed to promoting a culture of integrity.
+Our commitment to promoting a culture of integrity means that we aim to foster an environment where everyone is expected to act ethically and feel empowered to voice concerns without fear of retaliation.
+By using an external organization to host the hotline, we ensure that our employees feel secure their reports will be anonymous.
+Career Development To support employee advancement, we provide on-the-job training through coaching, feedback, and role modeling.
+We encourage internal mobility through career expos and coaching, as well as foster mentorship connections and provide trained coaches as additional developmental support.
+In FY22, we created programming to support women in their careers, including ASPIRE Women’s Leadership Development Program to build a pipeline of leaders.
+The seven-month program was designed in partnership with uC Berkeley and aims Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 19 ---
+We have invested over $29 billion in research compliance with laws and regulations and development since our inception, yielding inventions that are essential > Systems for managing export to modern computing.
+While traditional > Participation in industry CPu-based approaches no longer deliver advances on the pace described by organizations and engagement with Moore’s law, we deliver gPu performance improvements on a pace ahead of policymakers Moore’s law, giving the industry a path forward.
+There are almost 3 million developers worldwide downloading NVIDIA founder and CEO Jensen CuDA and our other software tools to help deploy our technology in our target Huang was awarded the 2021 Robert N. Noyce Award by the Semiconductor markets.
+Additionally, many achievements in advancing our Deep Learning Institute provides instruction on the latest techniques on semiconductor technology.
+The programmable nature of our architecture allows us to support several multi-billion-dollar end markets with the same underlying technology by using a variety of software stacks developed either internally or by third party developers and partners.
+Building on our investment in automotive safety, we’re expanding functional and system safety toward autonomous machines in general, such as robotics, smart manufacturing, and new frontiers of healthcare.
+Joining us were services, or employee expense reimbursements) to political parties or candidates, the co-chairs of the Congressional AI including any direct contributions through any intermediary organizations, such as Caucus, u.S. Reps. Jerry McNerney political action committees (PACs), lobbyists, campaign funds, trade or industry (D-CA) and Anthony gonzalez associations, or super PACs.
+We development and advocacy efforts, including investment in the u.S. workforce and advocated for a strategy, coherent federal R&D programs.
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 29 --- PAGE 31 --- Semiconductor Design We support SIA and individual efforts to advocate for full funding of the CHIPS Act.
+We also support the updated FABS Act that would create a semiconductor design tax credit.
+As a premier u.S. semiconductor company, we work to ensure continued leadership in the development and collaborative manufacturing process of semiconductors.
+With so many needs to meet, we view our commitment to positive customer relations in terms of the role we play as a responsible supplier, our commitment to our reseller partners and their customers, and to our direct customers.
+Customer Support We offer support to our customers through a comprehensive support site and several NVIDIA-hosted product forums and communities.
+We measure customer satisfaction in several ways, including customer satisfaction rate, percentage of support incidents filed, closed incident survey response rate, and referral rate.
+Our support organization aims to dramatically reduce the time it takes for our software team to incorporate customer feedback, enabling technicians to respond quickly and increase customer satisfaction.
+We also use data gathered from our customer forums to give our research and development organizations feedback about what’s working and what improvements our customers want.
+In addition to the functions listed above, we provide support through account management, solutions architects, and developer relations, training, and conferences.
+Our customer support organization is on the front line of communications with our partners, working with their engineering teams as they test NVIDIA products in their systems and devices.
+Inquiries from our original equipment manufacturer partners have increased in line with our focus on supplier responsibility and environmental sustainability.
+All NVIDIA chips and graphic cards support EPEAT conformance, and we provide information to customers seeking to register their products with the program.
+As we monitor security attacks against us and > Technologies, processes, and others and become aware of more frequent high-profile security breaches, we practices designed to protect networks, computers, programs, and remain committed to implementing vigorous protections for any personal data from cyberattack information we collect.
+and company data We follow the processes to ensure information security management outlined > Compliance with cybersecurity and in frameworks such as the ISO 27001 for Information Security Standards.
+Supplier audits to ensure compliance we are addressing all aspects of responsible supply chain management.
+Depending on the results of the assessment, we require additional evidence of conformance or an improvement plan if gaps are discovered.
+Suppliers are reviewed on a variety of topics and receive a low-, moderate-, or high-risk rating, which we then use to implement improvements.
+We continue monitoring to ensure that suppliers demonstrate effective processes to ensure compliance.
+We are in alignment with the uN We worked with suppliers to ensure their compliance guiding Principles on Business and with the principles of zero hiring fees and freely chosen Human Rights, the ILO Declaration employment.
+We participated in the CDP Supply We reviewed suppliers’ environmental improvement Chain program.
+seriously and conduct regular audits to ensure all workers in our supply We expect our suppliers to maintain progressive employment, environmental, chain are treated with respect and health, safety and ethical practices that meet or exceed applicable laws, the RBA dignity.
+Our commitment to developing trusted AI externally that is rooted in the principles of upholding human rights is outlined below, along with an overview of how we enable a pipeline of future talent to have a rewarding > Governance and oversight of AI’s career in AI and see the potential they have in using AI to solve some of society’s impact on society most challenging problems.
+We're committed to the advancement of Trustworthy AI (TAI), founded in principles that reflect our core values and the fundamentals in our Code of Conduct.
+Our TAI efforts are led by a head of Trustworthy AI and supported by a cross- functional committee and teams aligned with each of our principles.
+Our global public policy team monitors global regulations and relevant standards to ensure we maintain compliance.
+Outlines the key steps to identify, measure, manage, and mitigate potential risks associated with our AI and machine learning models and systems; and > Is aligned with and incorporates the Company’s privacy guidance as a pragmatic approach to compliance.
+We aim to make every new generation of gPus faster and more energy efficient than its predecessor.
+improvements of each new generation of products > Software and networking to optimize ARCHITECTURE ENERGY EFFICIENCY energy efficiency and performance > Applications of NVIDIA technology for climate change mitigation and AI is revolutionizing scientific computing, and our platform enables modern data adaptation centers to accelerate increasingly common deep learning, machine learning, and high-performance computing (HPC) workloads.
+We aim to make every generation of gPus faster and more energy efficient than its predecessor.
+We develop hardware, software, and networking technology to improve performance and energy efficiency in the data center.
+Certain workloads achieve more than 50x performance improvement, allowing fewer servers to be deployed and reducing power of a modest datacenter by 4MW.
+In the commercial sector, AI-driven power grid operations and next-generation smart meters are enabling utilities to accelerate the world’s energy transition.
+In FY23 we announced a partnership with the united Nations Satellite Center (uNOSAT) to promote the use of AI for Earth observation (AI4EO) activities in support of the Sustainable Development Goals, with an emphasis on disaster management.
+NVIDIA Inception Partners Our Inception program is designed to nurture cutting-edge startups through go-to-market support, expertise, and technology.
+management systems, certifications, policies, procedures, Whether it is creation of technology to power next-generation laptops or designs and programs to support high-performance supercomputers, addressing climate change by improving energy efficiency is important in our research, development, and > Energy use and sourcing of design processes.
+Environmental and Energy Management Systems We’re committed to reducing our environmental impact by driving operational excellence.
+We identify and control environmental impacts and continuously improve our performance using a comprehensive environmental management system (EMS) certified to ISO 14001.
+Achieve LEED gold certification for our new Target date for certification was delayed due to COVID-19 impacts on Santa Clara headquarters building in FY23.
+CLIMATE CHANgE MANAgEMENT 52 --- PAGE 54 --- We continuously upgrade facilities and infrastructure to improve the energy efficiency of existing buildings.
+arrangement to support to utilize our space more effectively and improve IT lab environments are an important feature of several of our larger sites, where our HVAC and electrical efficiency.
+they support our product development and testing operations.
+This data informs our enhanced forecasting for future lab needs, more efficient deployment of existing tools and equipment, consolidation of energy-intensive lab operations, and planning for new lab spaces, which will dramatically increase the efficiency of our overall lab footprint.
+We are actively exploring options to increase our sourcing of renewable energy for our growing footprint, in support of our 100% renewable energy goal.
+b NVIDIA aligns with regulatory definitions of renewable energy at our key locations and, thus, excludes large-scale hydropower, as appropriate, from our renewables percentage.
+We aim to reduce our carbon footprint through encouraging sustainable behavior and implementing conservation measures.
+We support our employees in using alternative commute options and reducing their commute impacts through our green2Work program at our Silicon Valley headquarters.
+As we support hybrid onsite and at-home work arrangements, commute and business travel patterns change or are not needed, thereby decreasing our carbon footprint.
+For more information about how we’ve supported employees working from home, see COVID-19 Support.
+As we develop and grow at our headquarters, we’re implementing measures to conserve water resources and reduce our potable water demand.
+We use reclaimed water in cooling towers and landscape irrigation systems, and our landscaping consists of native, drought-resistant plants.
+We upgrade fixtures and appliances to improve efficiency and conserve water.
+WATER FY22 FY21 FY20 Water withdrawal (cubic meters) 817,082a 365,450 322,081 groundwater 0b 40,041 4,136 Municipal water supplies 666,560 269,782 279,819 Reclaimed water from another organization 150,522 50,078 53,964 Water consumption (cubic meters) 394,477 97,263 94,698 Water discharge (cubic meters) 422,605 268,186 227,383 a Starting in FY22, water withdrawal, consumption, and discharge includes estimated use by data centers.
+Because essential labs remained open, landfill waste from labs did not decrease while diverted waste streams dropped significantly, negatively impacting our diversion rate.
+We partner with a global specialist e-waste vendor to ensure proper tracking, decommissioning, and recycling of our e-waste.
+To reduce waste, we have an inventory management program for teams to submit items currently not in use to the warehouse inventory, improve visibility of available furniture and lab assets, and support redeployment of these for internal reuse.
+Product Packaging We continuously improve the balance between protecting the environment and 93% ensuring that our customers receive their products in immaculate condition.
+We embrace opportunities to reduce packing materials and increase the proportion of recycled, recyclable, and biodegradable materials used.
+For our DgX server products, which require shipping in large cardboard boxes or crates with protective foam, we aim to maximize recyclability by eliminating the use of wood and metal, switching to corrugate or corrugate-strawboard hybrid structures, and minimizing the use of foams by utilizing HDPE-2 cushioning systems.
+To reduce the amount of packaging used, we reuse packaging, ship products directly to the retail distributor, and use existing packaging for return merchandise authorization support whenever possible.
+We also reduce paper by providing online instructions for both our retail and server packages.
+102-12 External initiatives Public Policy Engagement Supply Chain Management Building a Diverse AI Talent Pipeline 102-13 Membership of associations Public Policy Engagement Supply Chain Management Strategy 102-14 Statement from senior decision- Message from our CEO maker Ethics and Integrity 102-16* Values, principles, standards, and Code of Conduct norms of behavior 102-17* Mechanisms for advice and Ethical Conduct concerns about ethics Governance 102-18 governance structure Corporate Responsibility Governance Committee Composition Stakeholder Engagement 102-40 List of stakeholder groups Stakeholder Engagement 102-41 Collective bargaining agreements NVIDIA participates in collective bargaining agreements in Finland, France, Italy, and ukraine, representing 1.1% of our population.
+34-35 Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets Energy TC-SC-130a.1 Total energy consumed We are a fabless semiconductor company Management in and do not have our own manufacturing Percentage of total energy Manufacturing facilities.
+TOPIC SASB CODE ACCOUNTING METRIC CROSS-REFERENCE, EXPLANATION, OMISSIONS Employee Health TC-SC-320a.1 Description of efforts to assess, We are a fabless semiconductor company. & Safety monitor, and reduce exposure See Supply Chain Management for more of employees to human health information, and Health and Safety (H&S) for hazards how we manage H&S across our corporate campuses.
+Metrics and Targets a. Climate-Related Metrics - Disclose the metrics used 2021 CDP Response: by the organization to assess climate-related risks and C5.
+C6.3, C6.4, C6.5, and C6.7; pp. 38-47 c. Climate Related Targets - Describe the targets used by 2021 CDP Response: the organization to manage climate-related risks and C4.
+We continue to align our business activities and charitable contributions to the 17 uN Sustainable Development goals (SDgs).
+SDG OUR SUPPORT Record-Setting DNA Sequencing—By optimizing the diagnosis pipeline to only a few hours, clinicians can more quickly identify genetic clues that inform patient care plans.
+AI Innovation in Africa—Our head of emerging areas gave a keynote speech at AI Expo Africa, highlighting the AI revolution and sharing how NVIDIA supports developers to build and scale their AI projects through the NVIDIA Developer Program, Inception Program, and DLI.
+NVIDIA Emerging Chapters—This program aims to mend what’s called the technology fracture— the gap between developers in the global North and those in emerging markets—by supporting local communities to build and scale their AI, data science, and graphics projects to solve relevant challenges.
+Sustainability Investments in India—Our corporate social responsibility investments in India are part of multiyear efforts in the country focused on investing in social innovation, job creation, and biodiversity.
+We support projects to build water-harvesting structures, plant local, non-invasive trees, improve soil health, and reduce open-field burning.
+We continue to align our social impact activities
+Our Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and Distributing This Report other filings made with the Securities and Exchange Commission discuss some of the important risk factors We promote the availability of our report through: that could contribute to differences between projections and outcomes, which could affect our business, > Targeted communications to employees and executives.

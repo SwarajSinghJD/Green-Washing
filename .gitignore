@@ -65,14 +65,19 @@ coverage.xml
 Thumbs.db
 
 # Data files (optional - uncomment if needed)
-# *.csv
+*.csv
 # *.txt
-# dataset/
+dataset/
+dataset/raw_pdf/
+dataset/raw_txt/
 
 # Extracted text
 dataset/extracted_text/*.txt
+dataset/raw_txt/*.txt
 
 # Models
 *.pkl
 *.h5
 *.model
+greenwashing_app/model/
+results/

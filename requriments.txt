@@ -4,5 +4,8 @@ scikit-learn
 ipykernel
 nltk
 pdfplumber
-
-
+spacy
+streamlit
+torch
+transformers
+matplotlib
